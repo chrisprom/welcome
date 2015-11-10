@@ -1,0 +1,5 @@
+en:
+  welcome:
+    heading: Welcome to ArchivesSpace
+    message: Your friendly archives management tool.
+    message_logged_in: Your extremely friendly archives management tool.
